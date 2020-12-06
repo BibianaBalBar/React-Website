@@ -22,6 +22,8 @@ const Nav = () => {
 };
 
 const StyledNav = styled.div`
+  /* position: fixed;
+  width: 100%; */
   min-height: 10vh;
   display: flex;
   margin: auto;
