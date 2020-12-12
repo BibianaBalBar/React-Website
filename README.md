@@ -1,3 +1,14 @@
+# React Dinamic Website
+
+## Portfolio website created with React
+
+Project build based on [Dev Ed](https://github.com/developedbyed)'s tutorial on "The Creative React Course".
+
+ 
+![website](https://github.com/BibianaBalBar/ReactWebsite/blob/main/imgs/react_website.gif)
+
+    //////////////////////////////////////////////////////////////
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
