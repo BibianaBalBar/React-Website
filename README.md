@@ -5,7 +5,7 @@
 Project build based on [Dev Ed](https://github.com/developedbyed)'s tutorial on "The Creative React Course".
 
  
-![website](https://github.com/BibianaBalBar/ReactWebsite/blob/main/imgs/react_website.gif)
+![website](https://github.com/BibianaBalBar/React-Website/blob/main/imgs/react_website.gif)
 
     //////////////////////////////////////////////////////////////
 
